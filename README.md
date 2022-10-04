@@ -9,6 +9,9 @@
 📄 Know about my experiences https://linkedin.com/in/osvaldo-barrios-data-science/
 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=OsvaldoBC&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?OsvaldoBC=shinokada&layout=compact)
 <!--
 **OsvaldoBC/OsvaldoBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
