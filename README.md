@@ -6,7 +6,7 @@
 
 📫 How to reach me osvaldo.barrios@gmail.com
 
-📄 Know about my experiences https://linkedin.com/in/osvaldo-barrios-data-science:/
+📄 Know about my experiences https://linkedin.com/in/osvaldo-barrios-data-science/
 
 
 <!--
