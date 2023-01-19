@@ -2,7 +2,7 @@
 
 🔭 I’m currently studying Full-Stack web development at @microverseinc
 
- <p> I am studying at Microverse, an online training school where I code 8 hours a day remotely with other developers and have learned communication and teamwork skills. I am excited about the opportunity to work remotely with a strong tech company.  Would you like to discuss further with me? </p>
+ <p> Microverse is an online training school where I code 8 hours a day remotely with other developers and have learned communication and teamwork skills. I am excited about the opportunity to work remotely with a strong tech company.  Would you like to discuss further with me? </p>
 
 📫 How to reach me osvaldo.barrios@gmail.com
 
