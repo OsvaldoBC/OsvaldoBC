@@ -4,14 +4,14 @@
 
  <p> Microverse is an online training school where I code 8 hours a day remotely with other developers and have learned communication and teamwork skills. I am excited about the opportunity to work remotely with a strong tech company.  Would you like to discuss further with me? </p>
 
-📫 How to reach me 
+📫 How to reach me:
 
-👤👤 **Osvaldo Barrios**
+👤 **Osvaldo Barrios**
 
-- Twitter : [@OsvaldoBarrio20](https://twitter.com/OsvaldoBarrio20)
-- GitHub :  [@OsvaldoBC](https://github.com/OsvaldoBC)
-- LinkedIn: [osvaldo-barrios-data-science](https://linkedin.com/in/osvaldo-barrios-data-science)
-- E-mail:    [osvaldo.barrios@gmail.com]
+- [Twitter](https://twitter.com/OsvaldoBarrio20)
+- [GitHub](https://github.com/OsvaldoBC)
+- [LinkedIn](https://linkedin.com/in/osvaldo-barrios-data-science)
+- [Osvaldo.barrios@gmail.com](osvaldo.barrios@gmail.com)
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoBC&layout=compact)
