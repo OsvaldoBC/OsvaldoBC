@@ -10,7 +10,7 @@
 - [GitHub](https://github.com/OsvaldoBC)
 - [LinkedIn](https://linkedin.com/in/osvaldo-barrios-data-science)
 - [Osvaldo.barrios@gmail.com](osvaldo.barrios@gmail.com)
-
+- [Potfolio](https://osvaldobc.github.io/portfolioOsvaldo/)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoBC&layout=compact)
 
