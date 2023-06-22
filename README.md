@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Osvaldo Barrios
 
-<p> CIO - CTO - DBA - Full-Stack Web Engineer | JavaScript, Ruby on Rails, React/Redux, Redux. Software Engineer. In love with pair-programming, and remote work. I help startups take their products from concept to launch. with a passion for innovation and looking up to the next opportunity.  Would you like to discuss further with me? </p>
+<p> CIO - CTO - DBA - Full-Stack Web Engineer | JavaScript, Ruby on Rails, React/Redux. Software Engineer. In love with pair-programming, and remote work. I help startups take their products from concept to launch. with a passion for innovation and looking up to the next opportunity.  Would you like to discuss further with me? </p>
 
 👤 **Osvaldo Barrios**
 
