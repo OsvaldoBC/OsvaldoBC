@@ -1,10 +1,6 @@
 ### Hi there 👋 I'm Osvaldo Barrios
 
-CIO - CTO - DBA - Full-Stack Web Developer. JavaScript,Ruby on Rails, React JS, Redux.Software Engineer. In love with pair-programming, and remote work. I help startups take their products from concept to launch.
-
-🔭 Full-Stack web development at @microverseinc
-
- <p> Microverse is an online training school where I code 8 hours a day remotely with other developers. I am excited about the opportunity to work remotely with a strong tech company.  Would you like to discuss further with me? </p>
+<p> CIO - CTO - DBA - Full-Stack Web Engineer | JavaScript, Ruby on Rails, React/Redux, JS, Redux. Software Engineer. In love with pair-programming, and remote work. I help startups take their products from concept to launch. with a passion for innovation and looking up to the next opportunity.  Would you like to discuss further with me? </p>
 
 👤 **Osvaldo Barrios**
 
