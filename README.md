@@ -4,8 +4,6 @@
 
  <p> Microverse is an online training school where I code 8 hours a day remotely with other developers. I am excited about the opportunity to work remotely with a strong tech company.  Would you like to discuss further with me? </p>
 
-📫 How to reach me:
-
 👤 **Osvaldo Barrios**
 
 - [Twitter](https://twitter.com/OsvaldoBarrio20)
