@@ -10,6 +10,8 @@
 - [Osvaldo.barrios@gmail.com](osvaldo.barrios@gmail.com)
 - [Potfolio](https://osvaldobc.github.io/portfolioOsvaldo/)
 
+### 🔥 My Stats :
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoBC&layout=compact)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=OsvaldoBC&theme=default&show_icons=true&count_private=true)
