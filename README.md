@@ -7,7 +7,6 @@
 - [GitHub](https://github.com/OsvaldoBC)
 - [LinkedIn](https://linkedin.com/in/osvaldo-barrios-data-science)
 - [Osvaldo.barrios@gmail.com](osvaldo.barrios@gmail.com)
-- [Potfolio](https://osvaldobc.github.io/portfolioOsvaldo/)
 - [Twitter](https://twitter.com/OsvaldoBarrio20)
  
   
